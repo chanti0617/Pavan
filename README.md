@@ -61,4 +61,4 @@ Visit: http://127.0.0.1:5000
 
 🙌 Credits EfficientNet by Google AI
 
-Dataset by Kritik Seth on Kaggle 📬 Contact Bojja Pavan sai 📧 anke.kavya@example.com 🌐  📂 GitHub:(https://github.com/chanti0617)# Pavan
+Dataset by Kritik Seth on Kaggle 📬 Contact Bojja Pavan sai    📂 GitHub:(https://github.com/chanti0617)# Pavan
